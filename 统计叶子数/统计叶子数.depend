@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540358137 source:c:\赵静 code blocks\统计叶子数\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
